@@ -7,3 +7,12 @@
 - 🏭 I work as a Robotics R&D.
 - 🌱 I teach Robotics, ROS, C++, Python, Linux, etc. 
 - 📫 How to reach me: ebrahimnezhad@ualberta.ca
+
+
+## Skills
+
+- Robot Operating System
+- Industrial Automation
+- Deep Learning
+- Machine Learning
+- Computer Vision
