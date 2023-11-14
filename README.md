@@ -24,7 +24,8 @@
 
 ### 📺 Latest YouTube Videos
 
-[![Pose estimation of target drones](https://www.youtube.com/watch?v=BkIIqfIxMTs)
+<!-- BEGIN YOUTUBE-CARDS --> 
 
-[![Pose estimation of target drones](http "Pose estimation of target drones")]((https://www.youtube.com/watch?v=BkIIqfIxMTs)
+
+<!-- END YOUTUBE-CARDS -->
 
