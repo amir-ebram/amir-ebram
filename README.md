@@ -5,7 +5,8 @@
 -->
 
 - 🏭 I work as a Robotics R&D.
-- 🌱 I teach Robotics, ROS, C++, Python, Linux, etc. 
+- 🌱 I teach Robotics, ROS, C++, Python, Linux, etc.
+- 📺 I create tutorials on my YouTube channel [**Robotics from Scratch**](https://www.youtube.com/@RoboticsfromScratch/videos).
 - 📫 How to reach me: ebrahimnezhad@ualberta.ca
 
 
