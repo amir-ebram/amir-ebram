@@ -14,6 +14,7 @@
 
 - Robot Operating System
 - Industrial Automation
+- PLC Programming
 - Deep Learning
 - Machine Learning
 - Computer Vision
