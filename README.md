@@ -6,7 +6,6 @@
 
 - 🏭 I work as a Robotics R&D.
 - 🌱 I teach Robotics, ROS, C++, Python, Linux, etc.
-- 📺 I create tutorials on my YouTube channel [**Amirtronics**](https://www.youtube.com/@amirtronics/videos).
 - 📫 How to reach me: ebrahimnezhad@ualberta.ca
 
 
